@@ -1,0 +1,7 @@
+camel-tools
+mahad # pronounced maha d
+arabic-reshaper==2.0.7
+python-bidi
+install PyArabic
+install Arabic-Stopwords
+emoji
